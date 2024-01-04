@@ -25,7 +25,7 @@ MonoBehaviour:
     m_Start: 0
     m_ClipIn: 0
     m_Asset: {fileID: 3783056562001066322}
-    m_Duration: 15
+    m_Duration: 14.583333333332
     m_TimeScale: 1
     m_ParentTrack: {fileID: -6040043216282948157}
     m_EaseInDuration: 0
@@ -90,6 +90,75 @@ MonoBehaviour:
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
     m_DisplayName: First_look
+  - m_Version: 1
+    m_Start: 14.591314255042622
+    m_ClipIn: 0
+    m_Asset: {fileID: 7989604287660432774}
+    m_Duration: 2
+    m_TimeScale: 1
+    m_ParentTrack: {fileID: -6040043216282948157}
+    m_EaseInDuration: 0
+    m_EaseOutDuration: 0
+    m_BlendInDuration: 0
+    m_BlendOutDuration: 0
+    m_MixInCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_MixOutCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_BlendInCurveMode: 0
+    m_BlendOutCurveMode: 0
+    m_ExposedParameterNames: []
+    m_AnimationCurves: {fileID: 0}
+    m_Recordable: 0
+    m_PostExtrapolationMode: 0
+    m_PreExtrapolationMode: 0
+    m_PostExtrapolationTime: 0
+    m_PreExtrapolationTime: 0
+    m_DisplayName: Walking
   m_Markers:
     m_Objects: []
 --- !u!114 &-4963968807012110527
@@ -184,7 +253,7 @@ MonoBehaviour:
     m_Start: 5.2
     m_ClipIn: 0
     m_Asset: {fileID: -4963968807012110527}
-    m_Duration: 9.8
+    m_Duration: 9.391314255042623
     m_TimeScale: 1
     m_ParentTrack: {fileID: -3142777647206936523}
     m_EaseInDuration: 0
@@ -305,3 +374,19 @@ MonoBehaviour:
     exposedName: 7b46724a03b17ba4682d5f0370438376
     defaultValue: {fileID: 0}
   m_Timeline: {fileID: 11400000, guid: 4b3e29078221778428a700cb292d0201, type: 2}
+--- !u!114 &7989604287660432774
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eaf63b8abc5c37045b63c115317279bc, type: 3}
+  m_Name: EditorialPlayableAsset
+  m_EditorClassIdentifier: 
+  director:
+    exposedName: e20388030cebc504eb2eaa9936a69b4e
+    defaultValue: {fileID: 0}
+  m_Timeline: {fileID: 11400000, guid: 8c0ad6e936bde7440b479c5b5f5d4738, type: 2}

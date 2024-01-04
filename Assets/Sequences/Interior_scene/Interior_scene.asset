@@ -27,6 +27,7 @@ MonoBehaviour:
         - rid: 8775025360171433985
         - rid: 8775025360171433988
         - rid: 8775025361699995649
+        - rid: 8775025382775848961
         m_AvailableIndices:
           rid: -2
     - rid: 8775025360171433985
@@ -35,9 +36,9 @@ MonoBehaviour:
         m_Name: Interior_scene
         m_Fps: 60
         m_Start: 0
-        m_Duration: 5.2
+        m_Duration: 13
         m_Parent: -1
-        m_Children: 0100000002000000
+        m_Children: 010000000200000003000000
         m_Timeline: {fileID: 11400000, guid: 40a30fff362b90e4599bf55624ddc94f, type: 2}
         m_ChildrenTrack: {fileID: -6040043216282948157, guid: 40a30fff362b90e4599bf55624ddc94f,
           type: 2}
@@ -70,4 +71,18 @@ MonoBehaviour:
         m_ChildrenTrack: {fileID: 0}
         m_DefaultChildrenTrackName: Sequences
         m_EditorialClipAsset: {fileID: 1880254484991490790, guid: 40a30fff362b90e4599bf55624ddc94f,
+          type: 2}
+    - rid: 8775025382775848961
+      type: {class: TimelineSequence, ns: UnityEngine.Sequences, asm: Unity.Sequences}
+      data:
+        m_Name: Walking
+        m_Fps: -1
+        m_Start: 13
+        m_Duration: 2
+        m_Parent: 0
+        m_Children: 
+        m_Timeline: {fileID: 11400000, guid: 8c0ad6e936bde7440b479c5b5f5d4738, type: 2}
+        m_ChildrenTrack: {fileID: 0}
+        m_DefaultChildrenTrackName: Sequences
+        m_EditorialClipAsset: {fileID: 7989604287660432774, guid: 40a30fff362b90e4599bf55624ddc94f,
           type: 2}
