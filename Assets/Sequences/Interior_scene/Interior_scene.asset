@@ -18,8 +18,6 @@ MonoBehaviour:
   references:
     version: 2
     RefIds:
-    - rid: -2
-      type: {class: , ns: , asm: }
     - rid: 8775025360171433984
       type: {class: SequenceManager, ns: UnityEngine.Sequences, asm: Unity.Sequences}
       data:
@@ -27,16 +25,16 @@ MonoBehaviour:
         - rid: 8775025360171433985
         - rid: 8775025360171433988
         - rid: 8775025361699995649
-        - rid: 8775025382775848961
+        - rid: 8775025382775848964
         m_AvailableIndices:
-          rid: -2
+          rid: 8775025382775848962
     - rid: 8775025360171433985
       type: {class: TimelineSequence, ns: UnityEngine.Sequences, asm: Unity.Sequences}
       data:
         m_Name: Interior_scene
         m_Fps: 60
         m_Start: 0
-        m_Duration: 13
+        m_Duration: 14.583333333332
         m_Parent: -1
         m_Children: 010000000200000003000000
         m_Timeline: {fileID: 11400000, guid: 40a30fff362b90e4599bf55624ddc94f, type: 2}
@@ -72,17 +70,20 @@ MonoBehaviour:
         m_DefaultChildrenTrackName: Sequences
         m_EditorialClipAsset: {fileID: 1880254484991490790, guid: 40a30fff362b90e4599bf55624ddc94f,
           type: 2}
-    - rid: 8775025382775848961
+    - rid: 8775025382775848962
+      type: {class: StackInt, ns: UnityEngine.Sequences, asm: Unity.Sequences}
+      data: 
+    - rid: 8775025382775848964
       type: {class: TimelineSequence, ns: UnityEngine.Sequences, asm: Unity.Sequences}
       data:
         m_Name: Walking
         m_Fps: -1
-        m_Start: 13
+        m_Start: 14.583333333332
         m_Duration: 2
         m_Parent: 0
         m_Children: 
         m_Timeline: {fileID: 11400000, guid: 8c0ad6e936bde7440b479c5b5f5d4738, type: 2}
         m_ChildrenTrack: {fileID: 0}
         m_DefaultChildrenTrackName: Sequences
-        m_EditorialClipAsset: {fileID: 7989604287660432774, guid: 40a30fff362b90e4599bf55624ddc94f,
+        m_EditorialClipAsset: {fileID: -3485307077841075362, guid: 40a30fff362b90e4599bf55624ddc94f,
           type: 2}
