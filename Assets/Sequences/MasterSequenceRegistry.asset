@@ -17,3 +17,7 @@ MonoBehaviour:
     masterScene:
       m_SceneAsset: {fileID: 102900000, guid: 437a0a1c5f80c564ea0bd5d5e376b4e9, type: 3}
       m_ScenePath: Assets/Interior scene.unity
+  - timeline: {fileID: 11400000, guid: 5bd29c31affefd4449d9e27dbc37ba12, type: 2}
+    masterScene:
+      m_SceneAsset: {fileID: 102900000, guid: 78c14db16e7c5dd47834795a1511724f, type: 3}
+      m_ScenePath: Assets/Sea scene.unity
