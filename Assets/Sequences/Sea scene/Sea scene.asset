@@ -18,8 +18,6 @@ MonoBehaviour:
   references:
     version: 2
     RefIds:
-    - rid: -2
-      type: {class: , ns: , asm: }
     - rid: 8775025401461473281
       type: {class: SequenceManager, ns: UnityEngine.Sequences, asm: Unity.Sequences}
       data:
@@ -28,7 +26,7 @@ MonoBehaviour:
         - rid: 8775025401461473285
         - rid: 8775025401461473287
         - rid: 8775025455716106241
-        - rid: -2
+        - rid: 8775025456986980356
         m_AvailableIndices:
           rid: 8775025456986980354
     - rid: 8775025401461473282
@@ -37,9 +35,9 @@ MonoBehaviour:
         m_Name: Sea scene
         m_Fps: 60
         m_Start: 0
-        m_Duration: 14
+        m_Duration: 23
         m_Parent: -1
-        m_Children: 010000000200000003000000
+        m_Children: 01000000020000000300000004000000
         m_Timeline: {fileID: 11400000, guid: 5bd29c31affefd4449d9e27dbc37ba12, type: 2}
         m_ChildrenTrack: {fileID: 2074640467368728658, guid: 5bd29c31affefd4449d9e27dbc37ba12,
           type: 2}
@@ -90,3 +88,17 @@ MonoBehaviour:
     - rid: 8775025456986980354
       type: {class: StackInt, ns: UnityEngine.Sequences, asm: Unity.Sequences}
       data: 
+    - rid: 8775025456986980356
+      type: {class: TimelineSequence, ns: UnityEngine.Sequences, asm: Unity.Sequences}
+      data:
+        m_Name: Scope view
+        m_Fps: -1
+        m_Start: 23
+        m_Duration: 2
+        m_Parent: 0
+        m_Children: 
+        m_Timeline: {fileID: 11400000, guid: 1b27fbee6f925d5408a7f6f403a44a93, type: 2}
+        m_ChildrenTrack: {fileID: 0}
+        m_DefaultChildrenTrackName: Sequences
+        m_EditorialClipAsset: {fileID: -429005905614178174, guid: 5bd29c31affefd4449d9e27dbc37ba12,
+          type: 2}
