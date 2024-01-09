@@ -52488,11 +52488,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_CachedValues:
-  - 58.66666666666633
-  - 58.66666666666633
-  - 58.66666666666633
-  - 58.66666666666633
-  - 58.66666666666633
+  - 65.53333333333299
+  - 65.53333333333299
+  - 65.53333333333299
+  - 65.53333333333299
+  - 65.53333333333299
 --- !u!114 &1322951819
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -58508,7 +58508,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: -3.954, y: -116.217, z: -0.005}
 --- !u!114 &1449906419
 MonoBehaviour:
   m_ObjectHideFlags: 0
