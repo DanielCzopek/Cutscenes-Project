@@ -54157,11 +54157,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_CachedValues:
-  - 0.36666666666666664
-  - 0.36666666666666664
-  - 0.36666666666666664
-  - 0.36666666666666664
-  - 0.36666666666666664
+  - 0.35
+  - 0.35
+  - 0.35
+  - 0.35
+  - 0.35
 --- !u!114 &1322951819
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -54220,6 +54220,8 @@ PlayableDirector:
     value: {fileID: 160477183}
   - key: {fileID: -6192606530096720898, guid: 5bd29c31affefd4449d9e27dbc37ba12, type: 2}
     value: {fileID: 1456765513}
+  - key: {fileID: -5932731372794854467, guid: 5bd29c31affefd4449d9e27dbc37ba12, type: 2}
+    value: {fileID: 806052319}
   m_ExposedReferences:
     m_References:
     - 8a1ffc04e616d7d4d8cf82b1477c164e: {fileID: 1351534025}
