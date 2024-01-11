@@ -17228,6 +17228,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 9571380, guid: d24bb65e9cbd4f34d8d7c86cdec254e1, type: 3}
+      propertyPath: m_UpdateMode
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9571380, guid: d24bb65e9cbd4f34d8d7c86cdec254e1, type: 3}
+      propertyPath: m_CullingMode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9571380, guid: d24bb65e9cbd4f34d8d7c86cdec254e1, type: 3}
+      propertyPath: m_AnimatePhysics
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -40314,6 +40326,71 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 961257796}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &965401228
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 965401231}
+  - component: {fileID: 965401229}
+  - component: {fileID: 965401230}
+  m_Layer: 0
+  m_Name: Fighting scene
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!320 &965401229
+PlayableDirector:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 965401228}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_PlayableAsset: {fileID: 11400000, guid: eeb0ec1cefb74fb49b2dbf4daee10067, type: 2}
+  m_InitialState: 0
+  m_WrapMode: 2
+  m_DirectorUpdateMode: 1
+  m_InitialTime: 0
+  m_SceneBindings: []
+  m_ExposedReferences:
+    m_References: []
+--- !u!114 &965401230
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 965401228}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb64a86df403d9a4fae107cca5d4cd04, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MasterSequence: {fileID: 11400000, guid: 0b9aaa756c0066343af2437b8851d620, type: 2}
+  m_ElementIndex: 10
+  type: 1
+--- !u!4 &965401231
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 965401228}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1322951821}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &966554855
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -52680,11 +52757,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_CachedValues:
-  - 73.683333333333
-  - 73.683333333333
-  - 73.683333333333
-  - 73.683333333333
-  - 73.683333333333
+  - 77.05
+  - 77.05
+  - 77.05
+  - 77.05
+  - 77.05
 --- !u!114 &1322951819
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -52746,6 +52823,7 @@ PlayableDirector:
     - 3b479ae5f7565a94d9b7d7ab8076fbef: {fileID: 321924648}
     - 689bd0593eb27f043bf886082a8d5a50: {fileID: 1361747983}
     - cb54863c5036e234baf26fb64df841d3: {fileID: 1522810240}
+    - 591f590d2c497a14b8b20f55c2e3863d: {fileID: 965401229}
     - 196087d52dbc67c449d468f7381ba562: {fileID: 0}
     - d5791cdd5e996b341a8e572ec02f6b18: {fileID: 1415512258}
     - ab6e998e578f79d469f0bf044b8c0e87: {fileID: 266514844}
@@ -52788,6 +52866,7 @@ Transform:
   - {fileID: 1351534027}
   - {fileID: 579646615}
   - {fileID: 1522810242}
+  - {fileID: 965401231}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1324072415
@@ -54972,7 +55051,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!64 &1369764802
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -56503,7 +56582,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh35608
+  m_Name: pb_Mesh80036
   serializedVersion: 11
   m_SubMeshes:
   - serializedVersion: 2
