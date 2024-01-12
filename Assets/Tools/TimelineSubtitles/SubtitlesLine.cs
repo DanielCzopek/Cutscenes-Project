@@ -11,7 +11,7 @@ namespace Tools.TimelineSubtitles {
             subsLineBehaviour.text = text;
             return playable;
         }
-
+        
         public ClipCaps clipCaps => ClipCaps.None;
 
     }
