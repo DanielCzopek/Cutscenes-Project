@@ -35,6 +35,7 @@ MonoBehaviour:
         - rid: 8775025479438565377
         - rid: 8775025502002348033
         - rid: 8775025544075935745
+        - rid: -2
         m_AvailableIndices:
           rid: 8775025456986980354
     - rid: 8775025401461473282
@@ -43,7 +44,7 @@ MonoBehaviour:
         m_Name: Sea scene
         m_Fps: 60
         m_Start: 0
-        m_Duration: 76.88333333333199
+        m_Duration: 87.33333333333333
         m_Parent: -1
         m_Children: 01000000020000000300000004000000050000000700000008000000090000000a000000
         m_Timeline: {fileID: 11400000, guid: 5bd29c31affefd4449d9e27dbc37ba12, type: 2}
@@ -170,7 +171,7 @@ MonoBehaviour:
       data:
         m_Name: Fighting scene
         m_Fps: -1
-        m_Start: 76.883333333332
+        m_Start: 76.85
         m_Duration: 2
         m_Parent: 0
         m_Children: 
