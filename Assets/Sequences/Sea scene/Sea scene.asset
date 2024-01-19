@@ -37,6 +37,8 @@ MonoBehaviour:
         - rid: 8775025544075935745
         - rid: -2
         - rid: 8775025704527462401
+        - rid: 8775025726801575940
+        - rid: 8775025726801575942
         m_AvailableIndices:
           rid: 8775025456986980354
     - rid: 8775025401461473282
@@ -45,9 +47,9 @@ MonoBehaviour:
         m_Name: Sea scene
         m_Fps: 60
         m_Start: 0
-        m_Duration: 105.63333333333334
+        m_Duration: 126.93333333333334
         m_Parent: -1
-        m_Children: 01000000020000000300000004000000050000000700000008000000090000000a0000000c000000
+        m_Children: 01000000020000000300000004000000050000000700000008000000090000000a0000000c0000000d0000000e000000
         m_Timeline: {fileID: 11400000, guid: 5bd29c31affefd4449d9e27dbc37ba12, type: 2}
         m_ChildrenTrack: {fileID: 2074640467368728658, guid: 5bd29c31affefd4449d9e27dbc37ba12,
           type: 2}
@@ -194,4 +196,32 @@ MonoBehaviour:
         m_ChildrenTrack: {fileID: 0}
         m_DefaultChildrenTrackName: Sequences
         m_EditorialClipAsset: {fileID: 8601630690805735300, guid: 5bd29c31affefd4449d9e27dbc37ba12,
+          type: 2}
+    - rid: 8775025726801575940
+      type: {class: TimelineSequence, ns: UnityEngine.Sequences, asm: Unity.Sequences}
+      data:
+        m_Name: surrending
+        m_Fps: -1
+        m_Start: 123.76666666666667
+        m_Duration: 2
+        m_Parent: 0
+        m_Children: 
+        m_Timeline: {fileID: 11400000, guid: b25a4949fe84d62459f096a0b73f9f64, type: 2}
+        m_ChildrenTrack: {fileID: 0}
+        m_DefaultChildrenTrackName: Sequences
+        m_EditorialClipAsset: {fileID: -6461785558865461559, guid: 5bd29c31affefd4449d9e27dbc37ba12,
+          type: 2}
+    - rid: 8775025726801575942
+      type: {class: TimelineSequence, ns: UnityEngine.Sequences, asm: Unity.Sequences}
+      data:
+        m_Name: soo uncivilised
+        m_Fps: -1
+        m_Start: 126.933333333333
+        m_Duration: 2
+        m_Parent: 0
+        m_Children: 
+        m_Timeline: {fileID: 11400000, guid: 08c991de08a7ace44a4eb0109bea7aef, type: 2}
+        m_ChildrenTrack: {fileID: 0}
+        m_DefaultChildrenTrackName: Sequences
+        m_EditorialClipAsset: {fileID: -2404713405735184844, guid: 5bd29c31affefd4449d9e27dbc37ba12,
           type: 2}
