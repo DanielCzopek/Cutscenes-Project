@@ -4945,7 +4945,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh71252
+  m_Name: pb_Mesh217684
   serializedVersion: 11
   m_SubMeshes:
   - serializedVersion: 2
@@ -21889,11 +21889,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_CachedValues:
-  - 23.083333333333332
-  - 23.083333333333332
-  - 23.083333333333332
-  - 23.083333333333332
-  - 23.083333333333332
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
 --- !u!114 &439042771
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -32406,7 +32406,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Path: {fileID: 1783538553}
-  m_PathPosition: 0.8138338
+  m_PathPosition: 0
   m_PositionUnits: 0
   m_PathOffset: {x: 0, y: 0, z: 0}
   m_XDamping: 0
@@ -53705,7 +53705,6 @@ GameObject:
   - component: {fileID: 1078262629}
   - component: {fileID: 1078262628}
   - component: {fileID: 1078262627}
-  - component: {fileID: 1078262630}
   m_Layer: 0
   m_Name: cm
   m_TagString: Untagged
@@ -53789,23 +53788,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ac0b09e7857660247b1477e93731de29, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!114 &1078262630
-MonoBehaviour:
-  m_ObjectHideFlags: 3
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1078262625}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 68bb026fafb42b14791938953eaace77, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_NoiseProfile: {fileID: 11400000, guid: 20a705aea2d80e0478fb89b6f43d8530, type: 2}
-  m_PivotOffset: {x: 0, y: 0, z: 0}
-  m_AmplitudeGain: 1.5
-  m_FrequencyGain: 1.5
-  mNoiseOffsets: {x: -141.11197, y: 582.0751, z: 879.8235}
 --- !u!1001 &1078589610
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -55228,7 +55210,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh71030
+  m_Name: pb_Mesh217462
   serializedVersion: 11
   m_SubMeshes:
   - serializedVersion: 2
@@ -81443,6 +81425,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 142174, guid: bc4987e2fb189ec4d96488b047577016, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 171066, guid: bc4987e2fb189ec4d96488b047577016, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 192002, guid: bc4987e2fb189ec4d96488b047577016, type: 3}
       propertyPath: m_Name
       value: Character_Pirate_Blackbeard_01
@@ -90085,7 +90075,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh72248
+  m_Name: pb_Mesh218720
   serializedVersion: 11
   m_SubMeshes:
   - serializedVersion: 2
