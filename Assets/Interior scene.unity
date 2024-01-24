@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.17953035, g: 0.224796, b: 0.3064018, a: 1}
+  m_IndirectSpecularColor: {r: 0.12731749, g: 0.13414757, b: 0.1210787, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -332,7 +332,7 @@ Transform:
   m_Children:
   - {fileID: 1078262626}
   m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: -90, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &9102297
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5254,7 +5254,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh371282
+  m_Name: pb_Mesh33314
   serializedVersion: 11
   m_SubMeshes:
   - serializedVersion: 2
@@ -5834,7 +5834,7 @@ Transform:
   m_GameObject: {fileID: 98487685}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0.70710677, w: 0.7071068}
-  m_LocalPosition: {x: 2.034, y: 1.315, z: 6.3106217}
+  m_LocalPosition: {x: 2.014, y: 1.315, z: 6.3106217}
   m_LocalScale: {x: 0.3684311, y: 0.3684311, z: 0.3684311}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -22493,11 +22493,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_CachedValues:
-  - 25.15
-  - 25.15
-  - 25.15
-  - 25.15
-  - 25.15
+  - 34.75
+  - 34.75
+  - 34.75
+  - 34.75
+  - 34.75
 --- !u!114 &439042771
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -33806,7 +33806,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Path: {fileID: 1783538553}
-  m_PathPosition: 0.8036792
+  m_PathPosition: 0.80394965
   m_PositionUnits: 0
   m_PathOffset: {x: 0, y: 0, z: 0}
   m_XDamping: 0
@@ -57004,7 +57004,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh371042
+  m_Name: pb_Mesh33074
   serializedVersion: 11
   m_SubMeshes:
   - serializedVersion: 2
@@ -70671,7 +70671,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh372200
+  m_Name: pb_Mesh34232
   serializedVersion: 11
   m_SubMeshes:
   - serializedVersion: 2
@@ -77764,7 +77764,7 @@ GameObject:
   - component: {fileID: 1616860832}
   - component: {fileID: 1616860831}
   m_Layer: 0
-  m_Name: erwe
+  m_Name: switch scene background
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -77851,7 +77851,7 @@ Transform:
   m_GameObject: {fileID: 1616860830}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0.70710677, w: 0.7071068}
-  m_LocalPosition: {x: 2.034, y: 1.315, z: -1.058}
+  m_LocalPosition: {x: 1.725, y: 1.315, z: -1.058}
   m_LocalScale: {x: 0.3684311, y: 0.3684311, z: 0.3684311}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -92343,7 +92343,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh372338
+  m_Name: pb_Mesh34370
   serializedVersion: 11
   m_SubMeshes:
   - serializedVersion: 2
@@ -98207,7 +98207,7 @@ GameObject:
   - component: {fileID: 2092483413}
   - component: {fileID: 2092483412}
   m_Layer: 0
-  m_Name: erwe (1)
+  m_Name: credit
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -98255,7 +98255,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: d85533d1251b0d94bb2662f2213523ab, type: 2}
+  - {fileID: 2100000, guid: 96efdd939314d4245935ab600ddb1635, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -98293,13 +98293,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2092483411}
   serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: -0.70710677, w: 0.7071068}
-  m_LocalPosition: {x: 2.034, y: 1.315, z: 2.6263108}
-  m_LocalScale: {x: 0.3684311, y: 0.3684311, z: 0.3684311}
+  m_LocalRotation: {x: 0.5000001, y: 0.5000002, z: -0.49999985, w: 0.4999999}
+  m_LocalPosition: {x: 1.726, y: 1.54, z: -0.62}
+  m_LocalScale: {x: 0.04502159, y: 0.04502159, z: 0.04502159}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -90}
+  m_LocalEulerAnglesHint: {x: 90, y: 0, z: -90}
 --- !u!1001 &2096012626
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -100212,7 +100212,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh373706
+  m_Name: pb_Mesh35738
   serializedVersion: 11
   m_SubMeshes:
   - serializedVersion: 2
