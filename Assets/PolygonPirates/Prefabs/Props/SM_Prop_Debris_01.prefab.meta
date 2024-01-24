@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 40f3146c17f04df4e92b6c6726081384
-timeCreated: 1496613716
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Prefabs/Props/SM_Prop_Debris_01.prefab
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:86c053521dd016dc21572795f6a26cfd8f076575b0c93d89e56e1bc3d9553812
+size 409

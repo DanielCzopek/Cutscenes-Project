@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: c0e827a068244684c93b8c9be3fe1dd7
-timeCreated: 1496714617
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Prefabs/Buildings/SM_Bld_Cuba_Balcony_Corner_01.prefab
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:6392851cea66d63d01ff9fcbe401dd61c9fda285e648fc8d584a30aa84ec0e3f
+size 425

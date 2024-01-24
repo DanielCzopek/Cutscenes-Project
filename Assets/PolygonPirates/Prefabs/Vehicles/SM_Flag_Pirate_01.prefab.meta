@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 4dd63217c105a2d43b24bf5f1b5622c0
-timeCreated: 1497891666
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Prefabs/Vehicles/SM_Flag_Pirate_01.prefab
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:d6d6e942c236453ce852b211afce842ec19f89381c4d41b29b05a8b28b24588f
+size 412

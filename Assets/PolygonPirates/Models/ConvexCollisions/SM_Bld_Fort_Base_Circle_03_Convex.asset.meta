@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 9ca3ddb9bd6c85d44a9b1ffe0281f20e
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 11400000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Models/ConvexCollisions/SM_Bld_Fort_Base_Circle_03_Convex.asset
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b8406877c45ac562ce483e874bd80a0ad3882d414b6646009a3c58937a4c1df
+size 442

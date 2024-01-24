@@ -1,16 +1,3 @@
-fileFormatVersion: 2
-guid: 8e2e460d565147a4ebdc3c70954aaba6
-timeCreated: 1545080201
-licenseType: Store
-NativeFormatImporter:
-  mainObjectFileID: 100100000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Prefabs/Characters/FixedScaleCharacter/Character_Governors_Daughter_01_FixedScale.prefab
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:247733a63e0837b8ad54809b2fa109b42ffaa797e16e317871f4d06261e62d4d
+size 489

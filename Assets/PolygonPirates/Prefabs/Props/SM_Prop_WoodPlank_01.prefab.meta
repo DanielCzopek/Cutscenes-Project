@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 1bf1768dff1fcca4893dbb6aed184337
-timeCreated: 1496613732
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Prefabs/Props/SM_Prop_WoodPlank_01.prefab
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:71f26ba87300e8eba8718affb4aa22f28af99105a8dbaec185a53fbb50fb3fa0
+size 412

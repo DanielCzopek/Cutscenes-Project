@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: a1f656c69d2080948aa8bcd6456962b9
-timeCreated: 1496879112
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Prefabs/Environments/SM_Env_Ocean_Tile_01.prefab
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:d1ff7e7b3669477eca650a09df1a082d87c435158e77b1d968c84400205a1654
+size 419

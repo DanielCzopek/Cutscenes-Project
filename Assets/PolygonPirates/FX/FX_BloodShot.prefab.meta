@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 48b64b0452dbc384692f9377afab3cd9
-timeCreated: 1496973550
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/FX/FX_BloodShot.prefab
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:d4c27c4a75c411fecb13097941f5dfe0247cc065c43b9f9a71d5c5d7c50a816b
+size 393

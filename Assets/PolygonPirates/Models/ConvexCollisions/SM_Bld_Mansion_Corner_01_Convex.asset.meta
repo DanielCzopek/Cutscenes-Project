@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 552e584a67aedeb40971aa87c478596e
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 11400000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Models/ConvexCollisions/SM_Bld_Mansion_Corner_01_Convex.asset
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:e89e62418bb37dec62eadad086eb150164d795dd4ddc9cc2e55a17dbe2d64a80
+size 440

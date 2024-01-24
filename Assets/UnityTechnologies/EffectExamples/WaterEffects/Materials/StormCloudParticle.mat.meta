@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 6ed8795ca1a3b714ea3f3d7a204afb7a
-timeCreated: 1473256938
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 73777
-  packageName: Legacy Particle Pack
-  packageVersion: 1.8
-  assetPath: Assets/UnityTechnologies/EffectExamples/WaterEffects/Materials/StormCloudParticle.mat
-  uploadId: 563305
+version https://git-lfs.github.com/spec/v1
+oid sha256:743a4b0e2bd7d94fa68118560c459911a6aa5e9138035b20ff5e178644e66db8
+size 412

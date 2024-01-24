@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 24a3398e60ffa3a46afcb1d10229a496
-timeCreated: 1496955667
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Prefabs/Characters/Fish.prefab
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:0986b9b046831c7b81033364d1a765a16cb13e5ef0f8494852ae25b0f20178c9
+size 401

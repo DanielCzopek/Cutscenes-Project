@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: e27a3e2f84809914fa5bf3a7ac14ce9f
-timeCreated: 1473686037
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 73777
-  packageName: Legacy Particle Pack
-  packageVersion: 1.8
-  assetPath: Assets/UnityTechnologies/EffectExamples/Misc Effects/Materials/DustMoteParticle.mat
-  uploadId: 563305
+version https://git-lfs.github.com/spec/v1
+oid sha256:42f3585dd8a64f105390e5c5832fc2d4dca6dc39dbfb129a554ce19fa811822c
+size 410

@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: fce2e904e99a08b429dcd8806ec22448
-timeCreated: 1496613733
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Prefabs/Buildings/SM_Bld_Cuba_Room_01.prefab
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:a073e114ba8e6d7be2c178df78ed330278c0cc3309aeb1229134a06304ee05b8
+size 415

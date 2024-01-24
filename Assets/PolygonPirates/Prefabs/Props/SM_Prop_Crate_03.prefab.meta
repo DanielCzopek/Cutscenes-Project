@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 5da8d4950b14fc54c8f1e12a6e13f429
-timeCreated: 1496613734
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Prefabs/Props/SM_Prop_Crate_03.prefab
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:3c20ba335cd25f9d99a03b3f8b40f2958c08b27e3d1906475e0cfcc90de4d0be
+size 408

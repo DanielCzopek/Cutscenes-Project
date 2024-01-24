@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: ff55c53b30dc5cc4a882b2c38c4bd8f2
-timeCreated: 1496613715
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Prefabs/Environments/SM_Env_PalmTree_03.prefab
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:fb1093b242cdd7b9736f3eda95023a47e0e921a41b2035b1538e16aabd471882
+size 417

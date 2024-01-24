@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: c839110c71e5a75499554a6b86a81614
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 11400000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Models/ConvexCollisions/SM_Prop_Scrub_Mop_01_Convex.asset
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:468dc50f98c48ec038412656e2c97d94b091802b6cafa0e92b469b56b7c5c76c
+size 436

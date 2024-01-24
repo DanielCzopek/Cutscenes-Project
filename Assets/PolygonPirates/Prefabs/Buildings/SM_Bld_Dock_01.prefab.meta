@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: e96926519592e914692a58d8a603bcdb
-timeCreated: 1496613745
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Prefabs/Buildings/SM_Bld_Dock_01.prefab
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:02912d6ff9c0deb1b57c6a98b87ce326c3e8656ba00ff94581f02874c3bb3ac1
+size 410

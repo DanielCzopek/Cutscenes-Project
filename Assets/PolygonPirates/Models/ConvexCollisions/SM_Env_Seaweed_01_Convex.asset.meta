@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 46058924b0c1c074fba75e9fe3b43257
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 11400000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Models/ConvexCollisions/SM_Env_Seaweed_01_Convex.asset
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:205da75e42f44028f3d87f044f6fbb223968ded0269e5bd5b863846ef4f6940c
+size 433

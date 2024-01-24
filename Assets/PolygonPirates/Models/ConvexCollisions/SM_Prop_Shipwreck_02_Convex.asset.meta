@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 9758aab6372fa2e4ca492284a8af1a91
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 11400000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Models/ConvexCollisions/SM_Prop_Shipwreck_02_Convex.asset
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:5077da69e3bd7520d45a5fa0fca0a2185fd283c0eb12400dedf3fc3b7a9d2042
+size 436

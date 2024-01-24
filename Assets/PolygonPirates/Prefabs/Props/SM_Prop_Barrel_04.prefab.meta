@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 2358940b02b9db840a54974b2aa9010b
-timeCreated: 1496613723
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Prefabs/Props/SM_Prop_Barrel_04.prefab
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:6b327f1dee4e91dd325ced65c6727daca3f8461bd5aec6c245fb7a9dd480dc06
+size 409

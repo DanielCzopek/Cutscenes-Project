@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: c807682e6de745747ad7c546fd2d3517
-timeCreated: 1496613726
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Prefabs/Weapons/SM_Wep_Broken_01.prefab
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:7d0aae9c08a97f9157b02d46880a24260ba787a8790c1c97e0cc26a527cac7cb
+size 410

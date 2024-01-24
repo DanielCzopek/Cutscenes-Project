@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 129f2e86fc9d2b74da137884ac14a0b3
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 11400000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Models/ConvexCollisions/SM_Bld_Rickety_House_01_Convex.asset
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:19205fd48a902c54321efbc927e7bbf3ed5b19fc1f34a3c185eddd2cb728713b
+size 439

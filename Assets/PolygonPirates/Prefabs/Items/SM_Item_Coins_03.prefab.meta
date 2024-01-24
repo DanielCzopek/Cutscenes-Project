@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: c960a66b5f663364288638fca09ac5c2
-timeCreated: 1496613716
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Prefabs/Items/SM_Item_Coins_03.prefab
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e23b04f8b628159437419356ed84d340f691dd725eaf813e6a93aa9a14d2b36
+size 408

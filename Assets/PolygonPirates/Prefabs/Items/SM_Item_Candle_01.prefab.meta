@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 3b7fea9a60142b441881a77769d1523d
-timeCreated: 1496613733
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Prefabs/Items/SM_Item_Candle_01.prefab
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:2ea37a7e9270e836da6203207b5d772d4573d08245bdea4651c0a7969837f10d
+size 409

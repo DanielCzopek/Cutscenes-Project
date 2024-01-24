@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: fe292b498a5ec8b46bbbf3338e342667
-timeCreated: 1496613710
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Prefabs/Buildings/SM_Bld_Shanty_Roof_03.prefab
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:fc125090bc9a97fbd40af2b8b2592eb7e874cdb0b07c963ffb902fa3a8082276
+size 417

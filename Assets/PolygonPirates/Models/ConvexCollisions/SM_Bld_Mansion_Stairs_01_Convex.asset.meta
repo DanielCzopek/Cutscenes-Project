@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 7a851bd11a00e02429c1e7802fa12066
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 11400000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Models/ConvexCollisions/SM_Bld_Mansion_Stairs_01_Convex.asset
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:7d1ceb83f8113e27080ec121a40470d7228f0c2387a3476e3e5a51426e53bb77
+size 440

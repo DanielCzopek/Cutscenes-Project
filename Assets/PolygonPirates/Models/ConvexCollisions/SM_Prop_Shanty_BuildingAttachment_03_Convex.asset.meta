@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 868fa7571ca42ef44b3f4af7ede5f10d
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 11400000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Models/ConvexCollisions/SM_Prop_Shanty_BuildingAttachment_03_Convex.asset
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:97bdda3cb85dd8961945e2d5c17cb8cdc5bcd4fde07231701b5918062757299b
+size 452

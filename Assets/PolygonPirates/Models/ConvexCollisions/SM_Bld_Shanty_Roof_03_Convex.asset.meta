@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: feab4e70090121a4e916e18984a6716c
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 11400000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Models/ConvexCollisions/SM_Bld_Shanty_Roof_03_Convex.asset
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:58e5ac4d2bd1c184cea1840ab37dab99443fcb3bbc02566463cfcfb06ffcd79f
+size 437

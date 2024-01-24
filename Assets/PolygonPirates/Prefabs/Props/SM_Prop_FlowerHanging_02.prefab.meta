@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 366500f45afe5254fa03c07da019e6b8
-timeCreated: 1496613711
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Prefabs/Props/SM_Prop_FlowerHanging_02.prefab
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:7d6e826206686dc2f4a77e688cb20cfbf83575e0b64bfc5b6c9c533c10ce00f0
+size 416

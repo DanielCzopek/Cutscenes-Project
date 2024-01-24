@@ -1,11 +1,3 @@
-fileFormatVersion: 2
-guid: d0223f77114284b47a0e8b317e71e4dc
-NativeFormatImporter:
-  userData: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Prefabs/SkyDome.prefab
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:10318889d03aa5eaf6b36db40005abc878d642e4ce3fe990eca75893f76d2f29
+size 307

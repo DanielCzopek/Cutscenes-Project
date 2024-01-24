@@ -1,15 +1,3 @@
-﻿using TMPro;
-using Tools.TimelineSubtitles;
-using UnityEngine;
-using UnityEngine.Playables;
-using UnityEngine.Timeline;
-
-[TrackClipType(typeof(SubtitlesLine))]
-[TrackBindingType(typeof(TMP_Text))]
-public class SubtitlesTrack : TrackAsset {
-    PlayableTrack pt;
-
-    public override Playable CreateTrackMixer(PlayableGraph graph, GameObject go, int inputCount) {
-        return ScriptPlayable<SubtitlesLineMixer>.Create(graph, inputCount);
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:3f7da54e2c37bee3070cc01c20fa6310ef954f4a3e4d99cbe0e9dc8adb23852a
+size 450

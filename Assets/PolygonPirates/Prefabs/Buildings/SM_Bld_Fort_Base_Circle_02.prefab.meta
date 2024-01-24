@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: f13660f99fcad8047a78a78d1dc1d46a
-timeCreated: 1496613717
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Prefabs/Buildings/SM_Bld_Fort_Base_Circle_02.prefab
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:4200c1bb3d0b287403444465361b82b7226d8fa56c44636c38cd6748df9b9f04
+size 422

@@ -1,14 +1,3 @@
-fileFormatVersion: 2
-guid: bf52c5cd40e202c479860c4229dea345
-PrefabImporter:
-  externalObjects: {}
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 192906
-  packageName: Enflame - Fire Effect
-  packageVersion: 1.0
-  assetPath: Assets/OccaSoftware/Enflame/Prefabs/Smoke Particle System Prefab.prefab
-  uploadId: 468593
+version https://git-lfs.github.com/spec/v1
+oid sha256:a8c9879688d33f47f3a232f905742e831bf3a467c7c937a549da9d69ab1bce06
+size 373

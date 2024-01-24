@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: e69a1b47940791a4d88bccd841fed794
-timeCreated: 1496613738
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Prefabs/Buildings/SM_Bld_Cuba_Hall_Front_01.prefab
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:c750af5bda2dc21dec4cd45c8b8159083f61e089f78362ac882433fe9190a4a1
+size 421

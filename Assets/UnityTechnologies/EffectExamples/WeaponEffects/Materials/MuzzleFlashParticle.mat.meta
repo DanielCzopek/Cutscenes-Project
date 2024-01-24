@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 527027c8baf2f0540be3104a3ec38a99
-timeCreated: 1473752919
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 73777
-  packageName: Legacy Particle Pack
-  packageVersion: 1.8
-  assetPath: Assets/UnityTechnologies/EffectExamples/WeaponEffects/Materials/MuzzleFlashParticle.mat
-  uploadId: 563305
+version https://git-lfs.github.com/spec/v1
+oid sha256:6a3d52f5c1a9245d65292d50284c82322fefbaa5e15ecf6e9efad026da398913
+size 414

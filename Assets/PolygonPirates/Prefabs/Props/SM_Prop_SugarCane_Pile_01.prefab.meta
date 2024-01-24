@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: b45b07749256b534482ae5a427703834
-timeCreated: 1496613734
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Prefabs/Props/SM_Prop_SugarCane_Pile_01.prefab
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:2a310782a53da5a104d1aad8a578d8a8de3ed7075124d62d273d41b94469a167
+size 417

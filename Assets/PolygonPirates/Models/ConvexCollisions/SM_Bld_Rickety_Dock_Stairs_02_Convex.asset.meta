@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 41f81d1eda3ae084bb219fbcf278c20f
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 11400000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Models/ConvexCollisions/SM_Bld_Rickety_Dock_Stairs_02_Convex.asset
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:a0d2735a53df5352bb7f8496ca89ab9f133d6dd45e189a2e01b49985279cd508
+size 445

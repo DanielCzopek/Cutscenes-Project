@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: a2d1d373f89e9b54291dd8ca4706e158
-timeCreated: 1496698704
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Prefabs/Weapons/SM_Wep_MusketPistol_05.prefab
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:7d4985408a3945c376ac935788747d62f714beb1751634c666ae99de1bc40afb
+size 416

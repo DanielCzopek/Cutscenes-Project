@@ -1,24 +1,3 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-
-public class OscillateLightBrightness : MonoBehaviour
-{
-    Light lightComponent;
-    [SerializeField, Range(0f, 10f)]
-    float lower;
-
-    [SerializeField, Range(0f, 10f)]
-    float upper;
-    // Start is called before the first frame update
-    void Start()
-    {
-        lightComponent = GetComponent<Light>();
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        lightComponent.intensity = Random.Range(lower, upper);
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:1554edbc459ec6da707b648f9e06602b9166ee9c4a2ecf5ef6f817799cfba77d
+size 539

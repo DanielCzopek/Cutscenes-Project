@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 472f85381a77ee94eb1c8544d73266a0
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 11400000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Models/ConvexCollisions/SM_Env_SugarCane_01_Convex.asset
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:4e9a20663a75bb66045890c2c4c6aa11258b73290d41c45b88b532fdb27bf09d
+size 435

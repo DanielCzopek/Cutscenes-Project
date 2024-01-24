@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 16b19d5b7b2ae024bab41e01ee8a37c5
-timeCreated: 1496613725
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Prefabs/Environments/SM_Env_Mangrove_Tree_02.prefab
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:d0535ffb40a1daa4ce7c44e9aaf0712ca61260df6556f26a00256064810ee38b
+size 422

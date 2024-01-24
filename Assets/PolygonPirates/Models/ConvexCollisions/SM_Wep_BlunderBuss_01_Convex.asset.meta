@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 341df6dcd4b4ba3439ad48ba71779d41
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 11400000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Models/ConvexCollisions/SM_Wep_BlunderBuss_01_Convex.asset
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:5ef7793c206f9f002441d38fdce28cc3be30a8dbd33ecba53ad2b9faf245ba01
+size 437

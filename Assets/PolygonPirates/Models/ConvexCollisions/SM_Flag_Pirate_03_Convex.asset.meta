@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 3e5cc7b06a4a7924faaa29ae1e30d3a0
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 11400000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Models/ConvexCollisions/SM_Flag_Pirate_03_Convex.asset
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:8c1e94fbc481fded2ae44dcf6ac29c8bf05a7539f86f929aeb641273cc441c6d
+size 433

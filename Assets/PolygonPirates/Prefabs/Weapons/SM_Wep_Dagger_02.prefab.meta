@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: d43f2bfa2a48a5c4286141c62a64a497
-timeCreated: 1496613722
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Prefabs/Weapons/SM_Wep_Dagger_02.prefab
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:4eb999ffd674d9054798b78a065d89c5f4249f813267aac1acedd2b99c3577ca
+size 410

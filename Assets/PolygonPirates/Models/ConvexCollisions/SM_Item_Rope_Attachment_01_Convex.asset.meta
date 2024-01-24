@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: dbb736e00faba7a47b30668b6ba5ad47
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 11400000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Models/ConvexCollisions/SM_Item_Rope_Attachment_01_Convex.asset
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:22ee8a3f39772915b7194a0d8156a5bfafba0ef44865effec91a3d64a0c3548b
+size 442

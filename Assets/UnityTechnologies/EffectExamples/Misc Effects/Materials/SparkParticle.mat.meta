@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 19a1e36bbcb5b4c429a5dfdc8fb914de
-timeCreated: 1473684431
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 73777
-  packageName: Legacy Particle Pack
-  packageVersion: 1.8
-  assetPath: Assets/UnityTechnologies/EffectExamples/Misc Effects/Materials/SparkParticle.mat
-  uploadId: 563305
+version https://git-lfs.github.com/spec/v1
+oid sha256:4ef16f43a6a053d2aff89e1e1ad2535f69a7cb107b8f37560d4de33250606559
+size 407

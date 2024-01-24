@@ -1,16 +1,3 @@
-fileFormatVersion: 2
-guid: 7b9f54696ed9bed45baf5d00a1e34023
-timeCreated: 1545080213
-licenseType: Store
-NativeFormatImporter:
-  mainObjectFileID: 100100000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Prefabs/Characters/FixedScaleCharacter/Character_English_Soldier_01_FixedScale.prefab
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:43c2660cb45f556b959694cf7595df9b40be6589f2a56fc965ce9a9d8e9f2d8e
+size 486

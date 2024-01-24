@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: aac9c1a836afea640963b9afeffd9f6f
-timeCreated: 1496613729
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Prefabs/Buildings/SM_Bld_Shanty_Preset_Bar_01.prefab
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:4c023b18f1d9c15130a77c2e5a1af8c876a6df76233079ae3973cc28b963d865
+size 423

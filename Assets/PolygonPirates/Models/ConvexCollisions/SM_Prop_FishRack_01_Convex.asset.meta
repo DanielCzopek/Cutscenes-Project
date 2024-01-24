@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 1e992127fe375c24db10b769abb57b72
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 11400000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Models/ConvexCollisions/SM_Prop_FishRack_01_Convex.asset
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:2c803f8e9078be8adc3156bf565d7fc1aeab29ba6b4335d6578def1ca015f1c1
+size 435

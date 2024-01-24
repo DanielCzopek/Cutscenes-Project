@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: e97b05e20cb39b848b7b89031303b358
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 11400000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Models/ConvexCollisions/SM_Prop_Parrot_01_Convex.asset
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:78367bb6ed0fe72ffcce41e94aae5481b8a36bf2c637e56cd17f334a056392c1
+size 433

@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: b9b4687017d6ec74182587f8093dfec9
-timeCreated: 1496798128
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Prefabs/Props/SM_Prop_Skeleton_Shackle_01.prefab
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:1bcd44b86e22f6d74782c0efb9bb374efd44a12f1a7dfce35460014c187555d7
+size 419

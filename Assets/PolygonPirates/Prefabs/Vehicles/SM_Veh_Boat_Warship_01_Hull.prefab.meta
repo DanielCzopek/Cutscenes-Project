@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: f997b4da461b427448692385e302007f
-timeCreated: 1496892335
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Prefabs/Vehicles/SM_Veh_Boat_Warship_01_Hull.prefab
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:cb97101811ffb470de4e1b2ea443c38fada3b61dff4aa425db5454ea44f1c978
+size 422

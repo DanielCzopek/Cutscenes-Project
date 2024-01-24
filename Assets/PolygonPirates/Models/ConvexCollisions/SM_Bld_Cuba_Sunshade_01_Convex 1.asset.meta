@@ -1,16 +1,3 @@
-fileFormatVersion: 2
-guid: 627522f5e6aa91846a65499ae2c63c55
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 11400000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Models/ConvexCollisions/SM_Bld_Cuba_Sunshade_01_Convex
-    1.asset
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:165a117619b05c522aeb18850d15fcc8448efc5a64c60342a419e92112e3a3bb
+size 445

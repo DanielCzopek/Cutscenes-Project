@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 004290e5228ae604bb73d33c8b53a0fc
-timeCreated: 1496613733
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Prefabs/Props/SM_Prop_Raft_01.prefab
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:e57aa83a6bc6e98dad336ff890190d18366b2c7b98bb1a1e201bb652ead61fed
+size 407

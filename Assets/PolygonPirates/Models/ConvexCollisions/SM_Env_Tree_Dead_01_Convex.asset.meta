@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: f68c51cf8b81e374b9fe74936083d95c
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 11400000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Models/ConvexCollisions/SM_Env_Tree_Dead_01_Convex.asset
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:07a4b5815e7dd8972bf54ba00bbf67bfe30b67f2d3fc8f438068c4dbebf6a821
+size 435

@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: f6384cdad3996184380fd1d153d69e6c
-timeCreated: 1496798128
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Prefabs/Props/SM_Prop_Skeleton_Cage_02.prefab
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:8129335a75447d63d475c4d3580431a5ccda3b9104b040bdc61b1da1ba7bf237
+size 416

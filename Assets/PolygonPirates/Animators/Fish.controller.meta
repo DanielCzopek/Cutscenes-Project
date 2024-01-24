@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 9b8ea782408c8c94aaae79c8f27b284e
-timeCreated: 1496955653
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Animators/Fish.controller
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:65165c04a513f46814f97147db8eab0e19bc51f589583741e69b2d848f23b6a1
+size 396

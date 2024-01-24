@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 28e727f1d76e56047917be00484f474f
-timeCreated: 1496613742
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Prefabs/Buildings/SM_Bld_Cuba_Roof_04.prefab
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:f0293401cc88716f29e34a8308a7791b0572a4522172c72ad875293733ce455c
+size 415

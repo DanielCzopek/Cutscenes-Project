@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 6a5d8007640b9c54882d28cef24b33ff
-timeCreated: 1496613729
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Prefabs/Buildings/SM_Bld_Rickety_Dock_Stairs_Curved_01.prefab
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:83ce51c76430900d6041a595bb38e8bb0811fa0f1da79cc6bd4a21020a1673cb
+size 432

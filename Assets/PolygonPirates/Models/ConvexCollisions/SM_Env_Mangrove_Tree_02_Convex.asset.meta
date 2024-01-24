@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: f0b30bd12ed9dc046a757203f11efdf3
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 11400000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Models/ConvexCollisions/SM_Env_Mangrove_Tree_02_Convex.asset
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:e09ebc8f442fe519a2a57f42c51da1723432045c7dcdd6f28e81ac5bee84e6d4
+size 439

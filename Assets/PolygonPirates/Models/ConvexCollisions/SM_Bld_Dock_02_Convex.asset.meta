@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 21fa6b7711e5b38468a5b8c993880cde
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 11400000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Models/ConvexCollisions/SM_Bld_Dock_02_Convex.asset
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:645f71a30f42a7dbeb39add2fd54e2afde8c29b0066c026a1917a51f58eee597
+size 430

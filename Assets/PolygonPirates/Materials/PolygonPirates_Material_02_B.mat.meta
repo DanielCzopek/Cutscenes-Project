@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 5bcd3942a0f042c4daca7e738a6606f6
-timeCreated: 1496978959
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Materials/PolygonPirates_Material_02_B.mat
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:e61b9bae03a463b5731934d1d2ae4be380dbf8a7914569c517128d13273c0056
+size 413

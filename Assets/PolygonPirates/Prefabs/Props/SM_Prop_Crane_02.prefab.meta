@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: cb4e12b7dcc3fe34d8563290b474c0b4
-timeCreated: 1496613723
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Prefabs/Props/SM_Prop_Crane_02.prefab
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:1e6d3f5ba6624aa56ebda01ec74349bf9aa6cb755229cc1c9177d726b6753ab1
+size 408

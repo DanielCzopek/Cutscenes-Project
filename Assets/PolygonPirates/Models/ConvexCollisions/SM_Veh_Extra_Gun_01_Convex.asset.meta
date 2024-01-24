@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 1455c0eb9132e9d45a9063f908bb9e6c
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 11400000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Models/ConvexCollisions/SM_Veh_Extra_Gun_01_Convex.asset
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:44ba18c29f6bb5dd2279cd290ccdab5ed05d58a47ca4121d7263838b7c1ed31e
+size 435

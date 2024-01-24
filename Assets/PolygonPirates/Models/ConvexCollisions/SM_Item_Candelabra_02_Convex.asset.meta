@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 2dfc6346f7b6a864b84248fa03117919
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 11400000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Models/ConvexCollisions/SM_Item_Candelabra_02_Convex.asset
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:7fc9858ae45e0b123b99bae7701aa8ad49874b2034e4a8bd47863f609141ec48
+size 437

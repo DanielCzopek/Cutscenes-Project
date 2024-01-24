@@ -1,16 +1,3 @@
-fileFormatVersion: 2
-guid: bfd6245ace6a1694d94da31f8f037213
-timeCreated: 1545080199
-licenseType: Store
-NativeFormatImporter:
-  mainObjectFileID: 100100000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Prefabs/Characters/FixedScaleCharacter/Character_Pirate_blackbeard_01_FixedScale.prefab
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:1cba8b5799c79bd3d1ecdc475aca7500e1c06ca6f52abdd1e397ea6ff1c87c2b
+size 488

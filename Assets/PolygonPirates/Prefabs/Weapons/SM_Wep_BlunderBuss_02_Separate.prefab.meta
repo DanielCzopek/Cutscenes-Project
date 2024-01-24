@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 6841562d5f5c23941a92f831a607600f
-timeCreated: 1504046375
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Prefabs/Weapons/SM_Wep_BlunderBuss_02_Separate.prefab
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:f596b84ad75609a03bb8bce18508aaecada2f71b5f6763a8ea4bd6123631a9eb
+size 424

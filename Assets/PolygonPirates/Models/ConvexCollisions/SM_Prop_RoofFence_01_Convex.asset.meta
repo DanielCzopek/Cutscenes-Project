@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 5c4cd096227f61b4ea19b9ef6887bbb6
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 11400000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Models/ConvexCollisions/SM_Prop_RoofFence_01_Convex.asset
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:e2d72a9ad64aea6d692b975b7d59544dcb26c3657dbb3f00e9cc76e24790c8d8
+size 436

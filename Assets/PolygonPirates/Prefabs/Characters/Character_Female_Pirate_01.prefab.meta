@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 9f907d6996365d14f98f919ae28e1e7f
-timeCreated: 1496953314
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Prefabs/Characters/Character_Female_Pirate_01.prefab
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:bb932201c4a40673f186ca65418bfec095f8f56669ccadc764d9a4cdc2931588
+size 423

@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: f93db21ee9802f74b93194d37f57fb90
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 11400000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Models/ConvexCollisions/SM_Prop_Crane_Shark_01_Convex.asset
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:8d11fe9dcda0766db0473dd93e08f4d99313d07cf05243c33a511f69395d1284
+size 438

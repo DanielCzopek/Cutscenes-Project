@@ -1,16 +1,3 @@
-fileFormatVersion: 2
-guid: 06b11cf3d149d6b4fbad781ec985747e
-timeCreated: 1545080207
-licenseType: Store
-NativeFormatImporter:
-  mainObjectFileID: 100100000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Prefabs/Characters/FixedScaleCharacter/Character_Female_Wench_01_FixedScale.prefab
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:95ba8319c8371cb4dae62e23b4c14ae42474b69abd4565d6803d7c1788ea4d06
+size 483

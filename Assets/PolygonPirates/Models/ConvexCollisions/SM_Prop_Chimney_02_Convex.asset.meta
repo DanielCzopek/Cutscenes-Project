@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: dfdfcc87a48f82e4dba534879331d562
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 11400000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Models/ConvexCollisions/SM_Prop_Chimney_02_Convex.asset
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:42dc9919283961beb2ef834c53eff664e7bc8cfdbde59a3f824504ffdc20802c
+size 434

@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 39967adf9c642c9409b734c109b4d0d3
-timeCreated: 1504046377
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Prefabs/Weapons/SM_Wep_Rifle_DoubleBarrel_01_Separate.prefab
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:d4ff5cdf2ccba726387a4599103fb8e66c18b5e33dd27dedb9d23a492c1b216b
+size 431

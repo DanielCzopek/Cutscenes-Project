@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 32c144f30da6e914e842e1ca0bb642b7
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 11400000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Models/ConvexCollisions/SM_Prop_Fence_03_Convex.asset
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:c8cb205f38c9fdb0ce0fb5d146f61116a03ed7fd3e3eb00843f6aa89dcc2716c
+size 432

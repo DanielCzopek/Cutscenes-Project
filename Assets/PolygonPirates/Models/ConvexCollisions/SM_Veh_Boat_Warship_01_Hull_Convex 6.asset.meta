@@ -1,16 +1,3 @@
-fileFormatVersion: 2
-guid: 5db400095bdc0de458cb43a470353f64
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 11400000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Models/ConvexCollisions/SM_Veh_Boat_Warship_01_Hull_Convex
-    6.asset
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:dd27b0aecd1c98343ea8924532164ae0964640339cd63f04d98519a9f1a80540
+size 449

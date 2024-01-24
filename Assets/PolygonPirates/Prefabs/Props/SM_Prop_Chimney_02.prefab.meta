@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: fba205c40ba110a46a927545d22de348
-timeCreated: 1496613742
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Prefabs/Props/SM_Prop_Chimney_02.prefab
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:cda304e4003a2c36de04d38df31e13705f8c5bdbb110adf159e6c113e48a850b
+size 410

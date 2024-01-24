@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 6cb81672af886f54c85a9b6454f24e89
-timeCreated: 1496613736
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Prefabs/Props/SM_Prop_Grave_01.prefab
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:0915ee132932e7bcc293458f452f38639a65a0eea412660c54a89f565e9e8322
+size 408

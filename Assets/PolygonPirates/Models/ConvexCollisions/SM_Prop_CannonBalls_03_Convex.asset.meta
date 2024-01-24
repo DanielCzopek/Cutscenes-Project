@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 41ec55f54e82a5b488de5512c7f85cb9
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 11400000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Models/ConvexCollisions/SM_Prop_CannonBalls_03_Convex.asset
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:f0580f10cea3382c9a6728978fc2b918d41864ac67e61f0f686ae836cb2f188f
+size 438

@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: e87bf632e58223940b2a56c89b15c4cc
-timeCreated: 1496885984
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Prefabs/Vehicles/SM_Veh_Boat_Rowing_01_Hull.prefab
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:520968c581c9e70ab270ae675398490690c2a2365c568aa00d44efd65da3483b
+size 421

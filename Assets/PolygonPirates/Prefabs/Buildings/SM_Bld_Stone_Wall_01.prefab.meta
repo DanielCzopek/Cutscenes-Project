@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 53b57c9c19bb3254a9203de7747d2727
-timeCreated: 1496710636
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Prefabs/Buildings/SM_Bld_Stone_Wall_01.prefab
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:ce279fc585969c267111024fd9f1d3b5ff2039b5ccb0cde09982181fbab6527f
+size 416

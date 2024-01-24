@@ -1,16 +1,3 @@
-fileFormatVersion: 2
-guid: 8318f6a5f2e4c8e42be22f77c22f78dc
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 11400000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Models/ConvexCollisions/SM_Bld_Shanty_Preset_01_Convex
-    1.asset
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:31d2c22e6c187813df07b0eca1da41cbb45e0d4f3db44336e4af8b1cde4422c5
+size 445

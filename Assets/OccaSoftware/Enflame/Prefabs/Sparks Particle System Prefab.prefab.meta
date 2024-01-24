@@ -1,14 +1,3 @@
-fileFormatVersion: 2
-guid: 799478cb32a901a48a17b3b0041b9c27
-PrefabImporter:
-  externalObjects: {}
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 192906
-  packageName: Enflame - Fire Effect
-  packageVersion: 1.0
-  assetPath: Assets/OccaSoftware/Enflame/Prefabs/Sparks Particle System Prefab.prefab
-  uploadId: 468593
+version https://git-lfs.github.com/spec/v1
+oid sha256:64259ee1a02a0762d9bda58095ca98875bfeabc2322dfe460ab98a17111d35a2
+size 374

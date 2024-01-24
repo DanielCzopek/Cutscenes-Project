@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: af9532c2204bd1746abe9a86f5ec97b2
-timeCreated: 1504046519
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Prefabs/Props/SM_Prop_Cannon_01_Separate.prefab
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:df613b404666bb0563d3be6f8b417b4c84a66799a7e26df7553fc59b320d95e3
+size 418

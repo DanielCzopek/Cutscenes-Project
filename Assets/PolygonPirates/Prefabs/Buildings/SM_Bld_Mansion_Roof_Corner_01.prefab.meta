@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 128dd699d075b5b429ec8e28d6f5b072
-timeCreated: 1496613715
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Prefabs/Buildings/SM_Bld_Mansion_Roof_Corner_01.prefab
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:6f32af44129c8a6b47a085c9cbb5128f0009f32c35934bcc668c87446a664725
+size 425

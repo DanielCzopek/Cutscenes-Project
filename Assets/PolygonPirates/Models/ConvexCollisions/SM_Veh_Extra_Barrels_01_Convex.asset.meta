@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 8eb46e566bff5c444be2d650fc783136
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 11400000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Models/ConvexCollisions/SM_Veh_Extra_Barrels_01_Convex.asset
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:af9d7b2e6209801b0a45d4e585f54c5b0806958f0d3f142954ea7d387184a62a
+size 439

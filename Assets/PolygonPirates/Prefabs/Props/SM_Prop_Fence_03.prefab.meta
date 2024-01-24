@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 98ef276ff21ad0340ac6cf9f6fa7a212
-timeCreated: 1496613737
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Prefabs/Props/SM_Prop_Fence_03.prefab
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:0d6409be0d8cbee735966f8421d0c9db8dac29e249cbd2e96646ea647623b50e
+size 408

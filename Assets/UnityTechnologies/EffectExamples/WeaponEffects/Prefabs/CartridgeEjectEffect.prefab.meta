@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 7ca96822084510147adb2aea03d45e3b
-timeCreated: 1473770355
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 73777
-  packageName: Legacy Particle Pack
-  packageVersion: 1.8
-  assetPath: Assets/UnityTechnologies/EffectExamples/WeaponEffects/Prefabs/CartridgeEjectEffect.prefab
-  uploadId: 563305
+version https://git-lfs.github.com/spec/v1
+oid sha256:1bfd52cc60ddafb28ec506f248379ee7fd083630e500d492347c24ae40ffe4dc
+size 416

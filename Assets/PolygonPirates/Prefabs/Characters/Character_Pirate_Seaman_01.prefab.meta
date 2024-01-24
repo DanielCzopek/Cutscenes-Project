@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: cd3b4bf6d7e36af41b2bc986a4ab13c7
-timeCreated: 1496953332
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Prefabs/Characters/Character_Pirate_Seaman_01.prefab
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:d0d2e876b8ffa9777e7d535d05c5a21cb740b96f894c8d71493705541e14b61a
+size 423

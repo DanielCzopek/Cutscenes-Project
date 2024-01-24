@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: a8be6130876eddd40ac44b3113f52ede
-timeCreated: 1496900121
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Prefabs/Props/SM_Prop_Oar_01.prefab
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:6a669dd65595854746fe126cd4d4d69c5092604057bc8439e687bbe79e859cbf
+size 406

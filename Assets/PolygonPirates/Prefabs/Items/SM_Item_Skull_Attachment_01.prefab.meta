@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 14f031a897e93a2469423fd43652037f
-timeCreated: 1496613730
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Prefabs/Items/SM_Item_Skull_Attachment_01.prefab
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:6a6a25f3c9be8166971ed1d57d39d473228366e9571c2f23d9005f0954f0ee05
+size 419

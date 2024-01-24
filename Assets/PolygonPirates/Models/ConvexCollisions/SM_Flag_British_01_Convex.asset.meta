@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 51f42bf82c7d44b4587cb11515a90dd5
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 11400000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Models/ConvexCollisions/SM_Flag_British_01_Convex.asset
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:e9e51fa5325a6735e5d41ce8fd628cbf71aa3b1ca3407c6d7af39ebd0050cb81
+size 434

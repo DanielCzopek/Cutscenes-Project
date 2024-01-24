@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: b8b36e4f2ff31af4183050ce0e686696
-timeCreated: 1496890516
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Prefabs/Environments/SM_Env_Cloud_01.prefab
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:71e3a565e0561feccd7548d59f7758ac1082344638bd8ee352a1f0cb55b2bbf5
+size 414

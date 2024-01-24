@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 3a8cea3fa07d95e4abe6404b1e17497d
-timeCreated: 1496613737
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Prefabs/Buildings/SM_Bld_Mansion_End_02.prefab
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:b4b37ce3b99e1721431780439f8eb1acb14dee9786017d9309166f5bd513f82b
+size 417

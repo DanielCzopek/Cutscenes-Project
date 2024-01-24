@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 0f5dda2ed8c95974293c1c282a7da09a
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 11400000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Models/ConvexCollisions/SM_Prop_Cage_01_Convex.asset
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:cffce1eb9bf2620e8808c8393413c570f4ee6eb500eb974cb29f8eff01102471
+size 431

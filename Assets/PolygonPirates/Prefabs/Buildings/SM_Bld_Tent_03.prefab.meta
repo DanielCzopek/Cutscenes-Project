@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 73da55b834d738743b2038e14d9c31cd
-timeCreated: 1496613717
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Prefabs/Buildings/SM_Bld_Tent_03.prefab
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:91108ff28283da5cde376bc1cb281efb303004728281061aebd3769ad94210c7
+size 410

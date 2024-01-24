@@ -1,8 +1,3 @@
-export PATH=$PATH:"C:\Program Files\7-Zip-Zstandard"
-filename=$(basename `git rev-parse --show-toplevel`).zip
-echo Packing repo to $filename
-rm -f $filename
-7z a -bsp1 -xr0\!\.git -xr0\!Library -xr0\!Logs $filename .
-echo done!
-start firefox "https://s3.console.aws.amazon.com/s3/buckets/studenci?region=eu-west-1&tab=objects"
-read
+version https://git-lfs.github.com/spec/v1
+oid sha256:71635bc2dd9dac6d37a5c16daf31676d6b2bd1ca7fc6d99cd2fb271acd3eed71
+size 331

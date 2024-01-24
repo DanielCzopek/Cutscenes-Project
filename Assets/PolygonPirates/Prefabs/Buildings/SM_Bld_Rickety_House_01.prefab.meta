@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: a928226c2e7c18a48b29bd9f6ce48b3a
-timeCreated: 1496613723
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Prefabs/Buildings/SM_Bld_Rickety_House_01.prefab
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:3a98094c6ec11f404bf49aa33f69409e465baa54e42ae5f2db204f1cf352cb6e
+size 419

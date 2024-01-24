@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: e8d31fb942e91c3478cedbdae2b384a0
-timeCreated: 1496955311
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Prefabs/Characters/Shark.prefab
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:50404de814d9faadbb9a68db8af9f09ec73c8cd1d327e2fc8115a6c443a2a5f7
+size 402

@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: e1dfdc62d151cdd4b9beddbbf0034d65
-timeCreated: 1496613718
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Prefabs/Items/SM_Item_Gem_03.prefab
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:a823e71056e21d3081a166ddddcaa31839979966870270d8ebf8ec3a62e65918
+size 406

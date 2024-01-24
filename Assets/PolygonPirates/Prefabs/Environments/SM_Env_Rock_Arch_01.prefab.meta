@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 208fdd3ef1228294c807f19ad1f8a2b3
-timeCreated: 1496613740
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Prefabs/Environments/SM_Env_Rock_Arch_01.prefab
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:3e8ed5270c5c4627695142733df56675565530faae1ac6d59264777533836c84
+size 418

@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 5adbf53cb42c18f418fc05871b5fbac1
-timeCreated: 1496613741
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Prefabs/Props/SM_Prop_Scrub_Mop_01.prefab
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:3a959899ea0c9c21607662fdd828aef699763971c2f5ac99f2d19c816bb1a3d7
+size 412

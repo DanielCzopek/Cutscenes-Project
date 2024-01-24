@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 65cfba182a973744d9bf992de86e971e
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 11400000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Models/ConvexCollisions/SM_Env_Rock_Skull_01_Convex.asset
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:e5127516a223698e8cbd4ec9292a0b668153fa71bfa7b064d3d33911557a04be
+size 436

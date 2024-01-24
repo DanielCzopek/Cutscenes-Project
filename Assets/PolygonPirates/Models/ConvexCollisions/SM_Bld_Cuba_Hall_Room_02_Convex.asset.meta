@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 095a5f51ea026f9439e736710ef57082
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 11400000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Models/ConvexCollisions/SM_Bld_Cuba_Hall_Room_02_Convex.asset
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:481bb64e16830cc80c939ddc0633c536ecc5674e44af15e148a5fd997106fb92
+size 440

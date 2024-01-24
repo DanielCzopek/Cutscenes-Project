@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 31d4aed1e3fa69f48916a476ab5cebdf
-timeCreated: 1496613734
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Prefabs/Buildings/SM_Bld_Shanty_Base_Stilts_02.prefab
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:2ed604b0fc1e38c7dfc7b20ee42a507192ead7cf3fd153878540d0dd3ceab44c
+size 424

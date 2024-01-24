@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 4937b9e48d1ed8741aedeac3a68dd537
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 11400000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Models/ConvexCollisions/SM_Prop_FlowerHanging_02_Convex.asset
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:0fd5425e115e1e3931fb3a8409821117aade48168c2b00a3c9db87488e72e259
+size 440

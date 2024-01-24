@@ -1,14 +1,3 @@
-fileFormatVersion: 2
-guid: 0b3d2f18a2969eb488c89395d8d11565
-PrefabImporter:
-  externalObjects: {}
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 192906
-  packageName: Enflame - Fire Effect
-  packageVersion: 1.0
-  assetPath: Assets/OccaSoftware/Enflame/Prefabs/Spot Light.prefab
-  uploadId: 468593
+version https://git-lfs.github.com/spec/v1
+oid sha256:eaa8295e5aeb55308c51d5aca2050e0cad10808acbb090def1811a35950c92d3
+size 355

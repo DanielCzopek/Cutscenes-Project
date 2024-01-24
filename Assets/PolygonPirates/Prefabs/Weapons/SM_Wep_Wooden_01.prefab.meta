@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 88cad391572f7d34786693ed8ce99195
-timeCreated: 1496613717
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Prefabs/Weapons/SM_Wep_Wooden_01.prefab
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:d91f6c63961b5dbc1909f49521876e6c5283a226e0b10b98dbbc93677e99c75c
+size 410

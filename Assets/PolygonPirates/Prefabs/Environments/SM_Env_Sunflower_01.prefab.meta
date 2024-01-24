@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: a26974fe806d0b54c979c7ef7bd2b3ef
-timeCreated: 1496613725
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Prefabs/Environments/SM_Env_Sunflower_01.prefab
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:2fd4c441c3a2f42707ade10e2117cd9566daee4946b4cb9258cb4bae23b3292b
+size 418

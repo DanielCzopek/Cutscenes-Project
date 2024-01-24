@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: db2877d391cb4f34aa237a1de88236ee
-timeCreated: 1496613724
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Prefabs/Props/SM_Prop_Stall_Cloth_04.prefab
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:39ee692fc8ec9d65f721911f34ed775decd499d6018a54a57f11cfa6b0238f53
+size 414

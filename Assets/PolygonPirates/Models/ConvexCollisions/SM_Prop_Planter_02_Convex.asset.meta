@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 7359037ac05a87e4eb28a15cdac673ec
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 11400000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Models/ConvexCollisions/SM_Prop_Planter_02_Convex.asset
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:0a845cd41e2d378fa616e9e5acfc9945a46179cacc435483fb3588570a394233
+size 434

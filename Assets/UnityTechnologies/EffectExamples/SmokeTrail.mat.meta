@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 85320f50710fcfb4d886bc56151bea1b
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 2100000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 73777
-  packageName: Legacy Particle Pack
-  packageVersion: 1.8
-  assetPath: Assets/UnityTechnologies/EffectExamples/SmokeTrail.mat
-  uploadId: 563305
+version https://git-lfs.github.com/spec/v1
+oid sha256:6f6305dbf093e1bfaeb05922d590495eceb40377a307bf3603dbf47603fc1b91
+size 388

@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 38a449e7f284ee34aa4dcbedc0b13c59
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 11400000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Models/ConvexCollisions/SM_Env_Rock_Large_010_Convex.asset
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:be4649d31787a6e0f4a8a9bdeee5304736bfcf03c2b72ddf49bc2b1cd938bf13
+size 437

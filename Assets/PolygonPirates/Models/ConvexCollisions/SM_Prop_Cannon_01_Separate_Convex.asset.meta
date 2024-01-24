@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: e6722a80934dca8498e694ed1687a611
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 11400000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Models/ConvexCollisions/SM_Prop_Cannon_01_Separate_Convex.asset
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:0c00798b0cac34f352901a61af766e438c33455b1adb4c5247187de3d9a43d39
+size 442

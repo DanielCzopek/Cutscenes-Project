@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 76f65b164e2235e468ea14b5dcd93492
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 11400000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Models/ConvexCollisions/SM_Wep_Sabre_01_Convex.asset
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:74cddf1d134a0ad0baea8a7768c97845011c622e6542d0aeea83d85108a98729
+size 431

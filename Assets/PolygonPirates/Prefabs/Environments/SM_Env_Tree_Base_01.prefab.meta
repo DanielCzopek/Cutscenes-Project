@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 92bb6e2f8fc23254f8d299b6f2b7601c
-timeCreated: 1496613736
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Prefabs/Environments/SM_Env_Tree_Base_01.prefab
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:503c47c6e760f30fb2a4b232ce4a8b236e71f60848db069e8bfa1de4d732e907
+size 418

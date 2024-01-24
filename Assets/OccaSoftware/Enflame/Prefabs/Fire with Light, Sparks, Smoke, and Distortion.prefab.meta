@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 32e4090eebf4da94d80184fff513bad3
-PrefabImporter:
-  externalObjects: {}
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 192906
-  packageName: Enflame - Fire Effect
-  packageVersion: 1.0
-  assetPath: Assets/OccaSoftware/Enflame/Prefabs/Fire with Light, Sparks, Smoke,
-    and Distortion.prefab
-  uploadId: 468593
+version https://git-lfs.github.com/spec/v1
+oid sha256:f0e3cb1f9e6f1087a972ee89166a6f9a541d5df725b7a0b5cb8ecb27cdd936b0
+size 395

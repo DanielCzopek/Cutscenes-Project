@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 6528c8eff0b7cca45a4e817ff27b3ad4
-timeCreated: 1496613721
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Prefabs/Buildings/SM_Bld_Fort_Door_04.prefab
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:76d3bff156adc2b8ffaca809e717b984b56d332ef7448176e2e6cbab14949ad4
+size 415

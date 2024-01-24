@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: a8fb1cb78f89ac946a6b1fb8b0248bf9
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 11400000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Models/ConvexCollisions/SM_Prop_StallCover_01_Convex.asset
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:11e4333a718d150c434541f36c4dd46fcc2bec39fa1bfcf9d540ac6902768774
+size 437

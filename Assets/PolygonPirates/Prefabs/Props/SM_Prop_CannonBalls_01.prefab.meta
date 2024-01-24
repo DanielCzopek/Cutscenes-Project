@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: feef7742679be4e4f9751dea1518867d
-timeCreated: 1496613711
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Prefabs/Props/SM_Prop_CannonBalls_01.prefab
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:889f9407c0680324926136e3752287fdb6fee6e3f27fe784035be8e4b2097ce5
+size 414

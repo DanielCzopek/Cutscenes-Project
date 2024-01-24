@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 6d6269edd55ce0e48ba037de57852c02
-timeCreated: 1496613735
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Prefabs/Items/SM_Item_Compass_01.prefab
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:3b3b2d2aab586adbd9df5ed39857af9cfc26e801bc497bf80c27178710d040bb
+size 410

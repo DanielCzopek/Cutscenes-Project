@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: a12503bc547b15c45bcba8cb3b9ab873
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 0
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 192906
-  packageName: Enflame - Fire Effect
-  packageVersion: 1.0
-  assetPath: Assets/OccaSoftware/Enflame/Materials/Sparks Material.mat
-  uploadId: 468593
+version https://git-lfs.github.com/spec/v1
+oid sha256:833db7391011e9ca659fbe04253c2a4e3f449bf946933f225dc4a0536e0bbe71
+size 387

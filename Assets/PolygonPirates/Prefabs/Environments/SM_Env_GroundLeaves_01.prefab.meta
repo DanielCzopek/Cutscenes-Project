@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 731eb2202f8de58428448813aa7f1a75
-timeCreated: 1496613734
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Prefabs/Environments/SM_Env_GroundLeaves_01.prefab
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:b50f184294fc8eb72c5ab8a2b9f65f670c005e9ddef5517ad16705b30e808917
+size 421

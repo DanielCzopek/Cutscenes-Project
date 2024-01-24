@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 1298eeaf6fd5b66408cc74617557c964
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 11400000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Models/ConvexCollisions/SM_Bld_Cuba_Roof_04_Convex.asset
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:2e4f3a67726c41f6adbebf15d761f75d8a887a30bb152a81d070ad33ae8c1e4d
+size 435

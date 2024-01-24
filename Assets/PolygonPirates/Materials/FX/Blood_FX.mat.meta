@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: a4fc2f59cc8c1804aa2e0f7b6681293a
-timeCreated: 1496973369
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Materials/FX/Blood_FX.mat
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:1aa991cb8b4262e131cca54cc42c527de472e1ca94e4141a85bf225a6b3b1aed
+size 396

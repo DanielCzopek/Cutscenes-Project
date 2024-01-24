@@ -1,17 +1,3 @@
-fileFormatVersion: 2
-guid: 6e44ebe905692d34dafbf0304f60527b
-timeCreated: 1545080205
-licenseType: Store
-NativeFormatImporter:
-  mainObjectFileID: 100100000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Prefabs/Characters/FixedScaleCharacter/Character_Gentleman_01
-    1_FixedScale.prefab
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:de4169863151a532e61ab1421d6b443d4fe24acc22d6617cce3c753b5a36048d
+size 486

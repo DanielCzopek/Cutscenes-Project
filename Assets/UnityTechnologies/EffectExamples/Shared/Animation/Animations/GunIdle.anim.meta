@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 1a8355c50c57ad748b5180c061c4f676
-timeCreated: 1473761298
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 73777
-  packageName: Legacy Particle Pack
-  packageVersion: 1.8
-  assetPath: Assets/UnityTechnologies/EffectExamples/Shared/Animation/Animations/GunIdle.anim
-  uploadId: 563305
+version https://git-lfs.github.com/spec/v1
+oid sha256:e8b3d7fbd51dbc2ecb6133c16867c5e6984ea8b97f5318a9e3aa2a7c64cad867
+size 407

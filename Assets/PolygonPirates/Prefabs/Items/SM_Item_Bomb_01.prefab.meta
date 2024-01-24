@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 0c74bb863bb2ece4193dd15ae219eb9b
-timeCreated: 1496613722
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Prefabs/Items/SM_Item_Bomb_01.prefab
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:060666dc9c6395b8706cb043259b132b262f8810c776780d52ee2dda8ae06ef4
+size 407

@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: a384b583426023d4da68d3f25e868451
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 2100000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 213607
-  packageName: Stylized Wood Textures
-  packageVersion: 1.0
-  assetPath: Assets/Stylized Wood Textures/Materials/Planks/Planks.mat
-  uploadId: 484066
+version https://git-lfs.github.com/spec/v1
+oid sha256:137221b8d80b644f42c4fd3f8e760715a779bfa5407d0776abb94e45f8ae04da
+size 394

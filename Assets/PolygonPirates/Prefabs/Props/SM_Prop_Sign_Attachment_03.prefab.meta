@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 3af466f370080f14480ef5bab30d0139
-timeCreated: 1496613736
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Prefabs/Props/SM_Prop_Sign_Attachment_03.prefab
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:2c7fe22b3ec1e2bccd67552e201162cebf234528903e0dddcf9a767207d311e6
+size 418

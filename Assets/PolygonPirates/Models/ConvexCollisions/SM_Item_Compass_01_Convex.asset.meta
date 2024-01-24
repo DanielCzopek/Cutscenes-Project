@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 8c3e69b71223a8846a9719f40a766055
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 11400000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Models/ConvexCollisions/SM_Item_Compass_01_Convex.asset
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:816a525b3f83d9425a8496d939b6c5a6abe2b61feb1cf8e27142fa4ffe6f4ebe
+size 434

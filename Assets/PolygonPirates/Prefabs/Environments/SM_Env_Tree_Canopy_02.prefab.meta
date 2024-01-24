@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 8f32dea8429dc6b49aac2dca757a9965
-timeCreated: 1496613713
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Prefabs/Environments/SM_Env_Tree_Canopy_02.prefab
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:1952aaa3ed2ea55514d6de70ad652d9a880653bfa7fdd8b34cd9a6e3385274c1
+size 420

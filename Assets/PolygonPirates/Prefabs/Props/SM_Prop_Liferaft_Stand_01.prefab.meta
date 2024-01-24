@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: e2d1519c02e7d1c40addface155d1e94
-timeCreated: 1496613720
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Prefabs/Props/SM_Prop_Liferaft_Stand_01.prefab
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:8c132733c4786357423e869c6863ded021432709ac5ce5f0955565ad4bae96a4
+size 417

@@ -1,16 +1,3 @@
-fileFormatVersion: 2
-guid: c2c0f67a5016e1448a02a52083dbe372
-timeCreated: 1545080177
-licenseType: Store
-NativeFormatImporter:
-  mainObjectFileID: 100100000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Prefabs/Characters/FixedScaleCharacter/Character_Skeleton_02_FixedScale.prefab
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:b6afffc2f31ed7ad2b617ded84556332372b9c6ec2db692ee9bacf6a697b87b2
+size 479

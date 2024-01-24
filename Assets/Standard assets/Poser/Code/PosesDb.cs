@@ -1,11 +1,3 @@
-using System.Collections.Generic;
-using UnityEngine;
-
-[CreateAssetMenu(fileName = "PosesDB", menuName = "ScriptableObjects/PosesDB")]
-public class PosesDb : ScriptableObject {
-    public List<AnimationClip> poses = new();
-
-    public AnimationClip GetRandom() {
-        return poses[Random.Range(0, poses.Count)];
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:a625af8f58d8083a256acf38edfdcd4d4e983a18918e778d455301bb215a675c
+size 322

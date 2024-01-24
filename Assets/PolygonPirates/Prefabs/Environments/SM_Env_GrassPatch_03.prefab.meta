@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: a27053aba3f81f143a78052e420f2d16
-timeCreated: 1496619478
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Prefabs/Environments/SM_Env_GrassPatch_03.prefab
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:f5b77c1ff24267f46a51c0de54c05b8fb0330879bdf9950cb7a7dc3ed4632927
+size 419

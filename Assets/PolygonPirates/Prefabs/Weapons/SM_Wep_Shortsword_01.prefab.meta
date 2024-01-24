@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 662136e9e9c510e4385455e701010fd6
-timeCreated: 1496613746
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Prefabs/Weapons/SM_Wep_Shortsword_01.prefab
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:d291c141cac877e5b3d5838583c96c1eed2e18ecd4f756372ba026c01c3a0633
+size 414

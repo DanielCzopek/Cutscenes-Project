@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 4f92f649e1eb59c4cb497a76ac940273
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 11400000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Models/ConvexCollisions/SM_Bld_Tent_05_Convex.asset
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:c3c28a40183d272a9bba2bb709c0e85db57318ed69f1896dc3ef5049da806fb0
+size 430

@@ -1,16 +1,3 @@
-fileFormatVersion: 2
-guid: 8c0568c457f38824d8649f26f2363927
-timeCreated: 1492522568
-licenseType: Store
-NativeFormatImporter:
-  mainObjectFileID: 100100000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 73777
-  packageName: Legacy Particle Pack
-  packageVersion: 1.8
-  assetPath: Assets/UnityTechnologies/EffectExamples/WeaponEffects/Prefabs/BulletImpactWaterContainerExtinguisherEffect.prefab
-  uploadId: 563305
+version https://git-lfs.github.com/spec/v1
+oid sha256:2f436dc8cb9a7784604097c40f3a9782c6a258369298952a499eb6affcccfe49
+size 470

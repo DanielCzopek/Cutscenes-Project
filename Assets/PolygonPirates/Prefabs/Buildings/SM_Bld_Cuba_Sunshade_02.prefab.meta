@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: e7647ca8016603b47b75de76152e8da0
-timeCreated: 1496613718
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Prefabs/Buildings/SM_Bld_Cuba_Sunshade_02.prefab
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:87fb706a67c2a36848afac434f4d19cddc74ee87823d766fb644b11132890d50
+size 419

@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 9adbe53aacf5f6d4491b67bb5f2a5166
-timeCreated: 1496613735
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Prefabs/Weapons/SM_Wep_MusketPistol_DoubleBarrel_02.prefab
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ed565398f0c881594d3e8f8255c331f99467ca3906c7c6c74f6385fa1979fb3
+size 429

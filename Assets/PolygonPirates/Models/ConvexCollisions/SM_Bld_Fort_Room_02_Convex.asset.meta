@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 9b96a6c2454d1934ab1c6a376e7a2fc1
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 11400000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Models/ConvexCollisions/SM_Bld_Fort_Room_02_Convex.asset
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:98517f80e4f9cb23620bc998ee1713f6dedcf47da577b7358c428881eaaf6e08
+size 435

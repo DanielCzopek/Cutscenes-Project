@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 80d8a0a4c08d03e4182949075206e069
-timeCreated: 1496613732
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Prefabs/Environments/SM_Env_Bush_01.prefab
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:9813c96e3895014cf55bbadbff7fef3627745947b7b2e5f83b0c5ff498929307
+size 413

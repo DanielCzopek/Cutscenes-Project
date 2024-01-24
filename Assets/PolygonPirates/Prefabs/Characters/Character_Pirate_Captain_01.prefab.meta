@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 1cc323c6fbf66b44b87cf8f0d2378b05
-timeCreated: 1496953318
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Prefabs/Characters/Character_Pirate_Captain_01.prefab
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:7a95797d5979c5fb8b91d9a1e7b51bc3b89890cabc0ffe74878b5bb76c12646e
+size 424

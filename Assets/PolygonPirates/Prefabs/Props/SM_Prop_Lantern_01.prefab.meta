@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: cefe5026a3c7c85498276c8ee6e59f13
-timeCreated: 1496613723
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Prefabs/Props/SM_Prop_Lantern_01.prefab
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:4e9ef04e15e941414c12fec220bb5d429ced8966df97d0a04ad19687e6b1d9aa
+size 410

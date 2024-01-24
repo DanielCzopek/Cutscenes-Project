@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: c5a4cba2f629b1543aa4b39dd5c4a506
-timeCreated: 1496613722
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Prefabs/Buildings/SM_Bld_Cuba_VineWall_01.prefab
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:6cf4af9beb6cfe7df63c623a23623f8eaf7cf9e3b7947b0bd97d8b5bab5db8c9
+size 419

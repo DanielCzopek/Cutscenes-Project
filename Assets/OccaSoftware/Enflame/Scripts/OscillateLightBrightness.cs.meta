@@ -1,18 +1,3 @@
-fileFormatVersion: 2
-guid: 836812e2e39cf6a4292632277b46235b
-MonoImporter:
-  externalObjects: {}
-  serializedVersion: 2
-  defaultReferences: []
-  executionOrder: 0
-  icon: {instanceID: 0}
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 192906
-  packageName: Enflame - Fire Effect
-  packageVersion: 1.0
-  assetPath: Assets/OccaSoftware/Enflame/Scripts/OscillateLightBrightness.cs
-  uploadId: 468593
+version https://git-lfs.github.com/spec/v1
+oid sha256:14d561d512ce9d710ac92b7342d8077f511a7bade8d4f8233bc25eb6acf0cd93
+size 454

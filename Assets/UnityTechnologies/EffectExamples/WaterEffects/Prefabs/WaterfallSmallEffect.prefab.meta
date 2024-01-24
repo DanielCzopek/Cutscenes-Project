@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: e0ea35e989dfcd043b42d7053b546abc
-timeCreated: 1473175785
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 73777
-  packageName: Legacy Particle Pack
-  packageVersion: 1.8
-  assetPath: Assets/UnityTechnologies/EffectExamples/WaterEffects/Prefabs/WaterfallSmallEffect.prefab
-  uploadId: 563305
+version https://git-lfs.github.com/spec/v1
+oid sha256:ef873eb5b01ba1b8ea7d992f0d06944c4016931cb0c78844c0309eab66bc6ff3
+size 415

@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: fdc9ff061ae5f6d49bfa5914cd9e2b75
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 11400000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Models/ConvexCollisions/SM_Wep_MusketPistol_04_Convex.asset
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:9376936df7cffa01356e49d7c75192fcd4bbe82262a701b39becf8c38de83ecc
+size 438

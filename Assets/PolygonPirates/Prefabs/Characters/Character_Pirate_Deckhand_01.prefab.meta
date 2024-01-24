@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 298b6af3224b899419309b7d9e05ace7
-timeCreated: 1496953308
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Prefabs/Characters/Character_Pirate_Deckhand_01.prefab
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:af39444e152accd1fadfc0f52d6b622f7c69ae8b2c544d5dd7f3a1b1b81abb80
+size 425

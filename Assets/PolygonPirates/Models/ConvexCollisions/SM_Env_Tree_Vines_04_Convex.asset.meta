@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 9c68d8b59f1115d4493dbd6b92945aad
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 11400000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Models/ConvexCollisions/SM_Env_Tree_Vines_04_Convex.asset
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:99dee173ec6066632b9d30ead0b0b19d531b72797d2e86ecea8b3d3eea6cc942
+size 436

@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: eb2834de9304430498a4187bc75d9c2d
-timeCreated: 1496613711
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Prefabs/Items/SM_Item_Bottle_03.prefab
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:19d4405ab0dac3fbce0b4f8eeeb2148f10137641035ec2b0f224e640ed76aa24
+size 409

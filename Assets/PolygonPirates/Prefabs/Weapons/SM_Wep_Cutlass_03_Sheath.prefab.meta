@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 463e7a6ed7d74d5478bd5a3c2daa6ca7
-timeCreated: 1496613728
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Prefabs/Weapons/SM_Wep_Cutlass_03_Sheath.prefab
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:e5c526f3f9e00dbd6debe9636fae7743e2ab258a46367b12354a56cd1f9a9eef
+size 418

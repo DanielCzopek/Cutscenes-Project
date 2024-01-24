@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: aa20fb1f8fc0c534b9ece3c761be15f1
-timeCreated: 1496613726
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Prefabs/Environments/SM_Env_Beach_02.prefab
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:0d19c5fe44029eed7dcc7a4f3e32986faae3e520f0d69f10e080f0137e35c0cc
+size 414

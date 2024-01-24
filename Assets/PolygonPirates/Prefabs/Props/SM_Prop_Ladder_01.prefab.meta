@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: b72c1ea4ba7055c489ba8c450d287c53
-timeCreated: 1496613742
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Prefabs/Props/SM_Prop_Ladder_01.prefab
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:9ca2cac5913bd4a743eb6ec39d735869b75da3a5abe406b753bbc914b4e73ebc
+size 409

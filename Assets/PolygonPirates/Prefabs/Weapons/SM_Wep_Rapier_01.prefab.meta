@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: b32c6b4eae614e846bbaea9b1cf32b79
-timeCreated: 1496613746
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Prefabs/Weapons/SM_Wep_Rapier_01.prefab
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:4b5e6f062ab13cb72ab7de197cf657693898ccf6fcd8656bd1f5724141d0c770
+size 410

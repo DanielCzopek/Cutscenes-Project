@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 923afa08ed2436a419e257b207d87351
-timeCreated: 1496613724
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Prefabs/Items/SM_Item_Chalice_01.prefab
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:db739ffb27b35b5353268d9fd13a162dbe00c440950eccb3c7e38c686bb5ecf1
+size 410

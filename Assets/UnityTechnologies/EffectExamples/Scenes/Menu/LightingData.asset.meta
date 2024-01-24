@@ -1,17 +1,3 @@
-fileFormatVersion: 2
-guid: c482561641a25514791bf19c84125d92
-timeCreated: 1506938341
-licenseType: Store
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 25800000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 73777
-  packageName: Legacy Particle Pack
-  packageVersion: 1.8
-  assetPath: Assets/UnityTechnologies/EffectExamples/Scenes/Menu/LightingData.asset
-  uploadId: 563305
+version https://git-lfs.github.com/spec/v1
+oid sha256:c5f30eab07749c6040a78af0cfa1d4652ff1d0cea50dd15d9284a11b8c9b621c
+size 448

@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 729250c1f357933439e62d8726e89e7c
-timeCreated: 1496613745
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Prefabs/Environments/SM_Env_Background_Island_01.prefab
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:a75f362839da0e14b1860135f50d191169ddafdf77114427641facea3467a648
+size 426

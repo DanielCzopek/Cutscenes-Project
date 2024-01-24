@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 3fc7b21b0e09d8b4d99a1a8ec822b41f
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 11400000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Models/ConvexCollisions/SM_Wep_Cutlass_03_Convex.asset
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:1564f3ab500c5a2df51c0ef6543fc0f06d8a3fbc9e8ac814a3924f41742eaec1
+size 433

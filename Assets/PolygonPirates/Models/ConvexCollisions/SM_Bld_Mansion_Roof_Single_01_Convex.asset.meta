@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 85ba1ccb2372159438ce83a327c0d646
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 11400000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Models/ConvexCollisions/SM_Bld_Mansion_Roof_Single_01_Convex.asset
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:82454fcd90a3b505ebf769f04c20d8065c829441e3251ffd16a2a97ebd26aa7b
+size 445

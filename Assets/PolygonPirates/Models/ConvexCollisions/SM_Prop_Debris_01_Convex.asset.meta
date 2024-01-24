@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 7f69a51996a40064ba3b6cc84fe6a13e
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 11400000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Models/ConvexCollisions/SM_Prop_Debris_01_Convex.asset
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:1621cbaee9fdb275c945651a8aa639b54be068707c79c8c5937928c5bf6b9aab
+size 433

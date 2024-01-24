@@ -1,14 +1,3 @@
-fileFormatVersion: 2
-guid: 2a6b1f810ea94934da73f1391a39deaa
-PrefabImporter:
-  externalObjects: {}
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Prefabs/Items/SM_Item_Bag_Attachment_03.prefab
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:5090c8e11fa59103e6d21737b082d44c000776575c053bef04d1e854f7684330
+size 390

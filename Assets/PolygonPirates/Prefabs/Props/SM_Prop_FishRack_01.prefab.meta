@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 18bb53c99f17db444ad9ee4ad3180653
-timeCreated: 1496613744
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Prefabs/Props/SM_Prop_FishRack_01.prefab
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:8ffb480fb5c2b0fb4e46ccce444364b621edc3ef1aaf830176717386ac10a9b4
+size 411

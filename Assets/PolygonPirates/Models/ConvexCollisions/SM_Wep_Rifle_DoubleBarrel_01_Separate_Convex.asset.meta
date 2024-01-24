@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: b312a07593c73284db4aaf33b88aee2f
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 11400000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Models/ConvexCollisions/SM_Wep_Rifle_DoubleBarrel_01_Separate_Convex.asset
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:7b60110ef698afbf5f0bdb6fbb5c00f2ec524ab52b2663ca9da183cc6f73c4b4
+size 453

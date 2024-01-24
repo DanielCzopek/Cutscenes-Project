@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: ef71734b8ccc47b4a84966703514bbf2
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 11400000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Models/ConvexCollisions/SM_Bld_Cuba_Balcony_Corner_01_Convex.asset
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:fb23cabfd15b54d464a5bd6766aab706238fec2629ff1a65079e900f73af0e44
+size 445

@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 578f9d3214d5d44418cc636e3cabe5fa
-timeCreated: 1496613715
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 92579
-  packageName: POLYGON Pirates - Low Poly 3D Art by Synty
-  packageVersion: 1.5
-  assetPath: Assets/PolygonPirates/Prefabs/Buildings/SM_Bld_Shanty_Deck_01.prefab
-  uploadId: 614585
+version https://git-lfs.github.com/spec/v1
+oid sha256:618701614b14b18f2a3a56308285f6c424556ca66288b491cbb0843c5e722133
+size 417
